@@ -1,0 +1,23 @@
+name: Leaf in the Wind
+favicon: null
+layout_spectrum: 0.06600793800316751
+typography_spectrum: 0.8662803517654538
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3076742778066546
+  lightness: 0.010743983089923859
+  saturation: 0.40189349628053606
+  rhythmicContrast: 0.34592549107037485
+purpose: []
